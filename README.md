@@ -12,6 +12,10 @@ I'm **Rucha Mene** — a final-year Computer Science student passionate about bu
 
 ---
 
+## 🧠 LeetCode Stats
+![](https://leetcard.jacoblin.cool/ruchamene?cache=0)
+
+
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ruchaa_mene_93975)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rucha-mene-8a3939251)
@@ -68,12 +72,6 @@ I'm **Rucha Mene** — a final-year Computer Science student passionate about bu
 <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100" />
 </a>
 </div>
-
----
-
-## 🧠 LeetCode Stats
-![](https://leetcard.jacoblin.cool/ruchamene?cache=0)
-
 ---
 
 # 📊 GitHub Stats
@@ -81,8 +79,4 @@ I'm **Rucha Mene** — a final-year Computer Science student passionate about bu
 ![](https://nirzak-streak-stats.vercel.app/?user=menerucha&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=menerucha&theme=dark&hide_border=false&layout=compact)
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=menerucha&theme=radical&margin-w=4)
 
