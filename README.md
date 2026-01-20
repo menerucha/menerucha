@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Rucha Mene
 
 💻 Full-Stack Software Engineer | Backend & Systems Focus  
+
 I build **scalable full-stack applications**, design **robust backend systems**, and enjoy solving **real-world problems using data and engineering principles**.  
 Strong foundation in **DSA, system fundamentals, and production-ready web development**.
 
