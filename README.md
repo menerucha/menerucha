@@ -1,14 +1,20 @@
-## Hi there 👋  
-I'm **Rucha Mene** — a final-year Computer Science student passionate about building scalable backend systems, distributed architectures, and applied machine learning.
+# Hi there 👋 I'm Rucha Mene
+
+💻 Full-Stack Software Engineer | Backend & Systems Focus  
+🎓 B.Tech CSE @ VIT Bhopal (CGPA: 8.2)
+
+I build **scalable full-stack applications**, design **robust backend systems**, and enjoy solving **real-world problems using data and engineering principles**.  
+Strong foundation in **DSA, system fundamentals, and production-ready web development**.
 
 ---
 
-# 💫 About Me
-🔭 Working on scalable backend systems & ML projects  
-🤝 Open to open-source & full-stack collaborations  
-🌱 Learning system design & cloud-native architectures  
-💬 Ask me about DSA, MERN, Redis, ML  
-⚡ Fun fact: I love building systems more than UI pixels 😄  
+## 💫 About Me
+- 🔭 Building **scalable MERN & Next.js applications**
+- ⚙️ Backend-focused with interest in **system design & APIs**
+- 🌱 Exploring **cloud deployment, performance optimization & distributed systems**
+- 🤝 Open to **open-source contributions & full-stack collaborations**
+- 💬 Ask me about **DSA, MERN, REST APIs, Databases, ML systems**
+- ⚡ Fun fact: I prefer backend logic & architecture over UI polish 😄
 
 ---
 
