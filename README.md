@@ -98,13 +98,6 @@ I believe great software is reliable, maintainable, and built to scale.
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=menerucha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=menerucha&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=menerucha&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=menerucha&theme=github-dark)
