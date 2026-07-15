@@ -35,10 +35,6 @@ I believe great software is reliable, maintainable, and built to scale.
 
 ---
 
-## 🧠 LeetCode Stats
-![](https://leetcard.jacoblin.cool/ruchamene?cache=0)
-
-
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ruchamene.vercel.app)
@@ -47,6 +43,19 @@ I believe great software is reliable, maintainable, and built to scale.
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/menerucha/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menerucha2004@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ruchaa_mene_93975)
+
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🗂️ **VaultBox** | Distributed file storage system with replication, chunking, metadata management and fault tolerance. | Go • PostgreSQL • Redis • Docker |
+| 🏦 **RiskPulse** | Banking analytics platform for fraud detection, transaction monitoring and customer risk scoring. | Next.js • Go • PostgreSQL |
+| 🤖 **MeetingMind AI** | AI meeting assistant with transcription, RAG search, summaries and action items. | Next.js • FastAPI • LangChain |
+| 🚍 **Public Transport Intelligence** | Smart transport analytics with ETA prediction, demand forecasting and route optimization. | React • Node.js • PostgreSQL |
+| 🛡️ **SafeHer** | Women's safety platform featuring SOS alerts, live tracking and AI-powered safe route recommendations. | MERN • Firebase |
 
 ---
 
@@ -84,9 +93,22 @@ I believe great software is reliable, maintainable, and built to scale.
 
 ---
 
+## 🧠 LeetCode Stats
+![](https://leetcard.jacoblin.cool/ruchamene?cache=0)
+
+---
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=menerucha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=menerucha&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=menerucha&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=menerucha&theme=github-dark)
+
+---
 
 
