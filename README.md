@@ -1,19 +1,33 @@
-# Hi there 👋 I'm Rucha Mene
+<h1 align="center">Hi 👋, I'm Rucha Mene</h1>
 
-💻 Full-Stack Software Engineer | Backend & Systems Focus  
+<h3 align="center">
+Full Stack Software Engineer • Backend Systems • AI Applications
+</h3>
+
+<p align="center">
+Building scalable web applications, distributed systems, and AI-powered products.
+</p> 
 
 I build **scalable full-stack applications**, design **robust backend systems**, and enjoy solving **real-world problems using data and engineering principles**.  
 Strong foundation in **DSA, system fundamentals, and production-ready web development**.
 
 ---
 
-## 💫 About Me
-- 🔭 Building **scalable MERN & Next.js applications**
-- ⚙️ Backend-focused with interest in **system design & APIs**
-- 🌱 Exploring **cloud deployment, performance optimization & distributed systems**
-- 🤝 Open to **open-source contributions & full-stack collaborations**
-- 💬 Ask me about **DSA, MERN, REST APIs, Databases, ML systems**
-- ⚡ Fun fact: I prefer backend logic & architecture over UI polish 😄
+## 🚀 About Me
+
+I'm a Computer Science student passionate about building software that solves real-world problems.
+
+I enjoy working across the entire stack, with a stronger focus on backend engineering, distributed systems, and scalable architectures.
+
+Currently exploring:
+
+- Distributed Systems
+- AI Applications & RAG
+- Backend Performance
+- System Design
+- Cloud Native Development
+
+I believe great software is reliable, maintainable, and built to scale.
 
 ---
 
